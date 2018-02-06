@@ -1,0 +1,6 @@
+c:\users\skywalker\documents\visual studio 2017\Projects\AT1_8\AT1_8\bin\Debug\AT1_8.exe.config
+c:\users\skywalker\documents\visual studio 2017\Projects\AT1_8\AT1_8\bin\Debug\AT1_8.exe
+c:\users\skywalker\documents\visual studio 2017\Projects\AT1_8\AT1_8\bin\Debug\AT1_8.pdb
+c:\users\skywalker\documents\visual studio 2017\Projects\AT1_8\AT1_8\obj\Debug\AT1_8.csprojResolveAssemblyReference.cache
+c:\users\skywalker\documents\visual studio 2017\Projects\AT1_8\AT1_8\obj\Debug\AT1_8.exe
+c:\users\skywalker\documents\visual studio 2017\Projects\AT1_8\AT1_8\obj\Debug\AT1_8.pdb
